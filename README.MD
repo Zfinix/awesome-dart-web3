@@ -1,4 +1,4 @@
-# <a href="https://github.com/zfinix/awesome-dart-web3"><img align="right" src="https://github.com/zfinix/awesome-dart-web3/raw/main/assets/new-logo.png" alt="awesome-dart-web" title="awesome-dart-web" /></a> Awesome Dart + Web3
+# <a href="https://github.com/zfinix/awesome-dart-web3"><img align="right" src="https://github.com/zfinix/awesome-dart-web3/raw/main/assets/new-logo.png" alt="awesome-dart-web" title="awesome-dart-web" width="340" /></a> Awesome Dart + Web3
 
 🚀 A list of tools, libs and resources to help you build awesome dapps in Dart/Flutter inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-web3](https://github.com/JoinColony/awesome-web3).
 
