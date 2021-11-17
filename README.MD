@@ -36,7 +36,7 @@
   
   * [Writing DAPPs with Flutter + Solidity](https://itnext.io/writing-dapps-with-flutter-solidity-27d0621fd01)
 
-  * [Radom Reddit Thread on Flutter Web3](https://www.reddit.com/r/FlutterDev/comments/meg5ih/flutter_dapp_in_flutter_web/)
+  * [Random Reddit Thread on Flutter Web3](https://www.reddit.com/r/FlutterDev/comments/meg5ih/flutter_dapp_in_flutter_web/)
   
   * [Building Modern Web Dapp with Flutter](https://medium.com/coinmonks/building-modern-web-dapp-with-flutter-91656c71d8b)
 
