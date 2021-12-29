@@ -94,6 +94,8 @@
   
   * [metamask-tutorial](https://github.com/GhostWalker562/no-longer-beginner-tutorials/tree/master/metamask) - Connect flutter web with metamask.
 
+  * [Anthos](https://github.com/Sameerkash/Anthos) - A Tezos Wallet app built with Flutter : create or import account, send and receieve transactions, view complete transaction history, track XTZ price.
+
 
 ### Web3 as a service
   * [Infura](https://infura.io)
