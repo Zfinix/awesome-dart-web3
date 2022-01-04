@@ -72,6 +72,9 @@
 
 ### Web3 Smart contracts
   * [web3_contract_generator](https://pub.dev/packages/web3_contract_generator) - This package generates dart files to represent ethereum dapps and provide type safety.
+  
+### Tezter Dart
+  * [tezster_dart](https://pub.dev/packages/tezster_dart/) - A library for building decentralized applications in Flutter, currently focused on the Tezos platform. Tezster_dart package contains all the function that is required to build tezos application.
 
 ### Dart IPFS libraries
   * [dart_ipfs_client](https://pub.dev/packages/dart_ipfs_client) - A client library for the IPFS HTTP API, implemented in Dart.
