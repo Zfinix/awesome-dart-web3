@@ -11,6 +11,7 @@
   * https://github.com/void4/awesome-ethereum
   * https://github.com/JoinColony/awesome-web3
   * https://github.com/cokia/Awesome-Web3
+  * https://github.com/bitruss/awesome-arweave
 
 
   For resources on how to get up and running with Flutter and Dart you might want to check these out:
