@@ -83,6 +83,8 @@
   * [ipld](https://pub.dev/packages/ipld) - IPFS API to use with flutter
 
   * [fast_base58](https://pub.dev/packages/fast_base58) - Fast Implementation of Base58 encoding 
+  
+  * [ethereum_utils](https://github.com/ethereumdart/ethereum_util) Dart Port of Ethereum Utils
 
   * [base_codecs](https://pub.dev/packages/base_codecs) - A set of codecs for encode and decode data.
 
@@ -104,6 +106,7 @@
 ### Web3 as a service
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
+  * [Alchemy](https://alchemy.com)
 
 ## How to contribute
 Wanna see your favourite link here? Just file an issue or directly add a PR with your helpful links :)
