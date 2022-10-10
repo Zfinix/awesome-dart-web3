@@ -62,6 +62,8 @@
   * [flutter_web3](https://pub.dev/packages/flutter_web3) - A full Dart class and function wrapper for Ethereum object from provider, i.e. MetaMask, an Ether.js port, and a Wallet Connect Provider 
 
   * [ethereum](https://pub.dev/packages/ethereum/) - An ethereum RPC 2 client for Dart.
+  
+  * [zksync-sdk-dart](https://github.com/vareger/zksync-sdk-dart) - An unofficial open-sourced SDK for zkSync
 
   * [web3](https://pub.dev/packages/web3) -  Utils for web3 and web3dart.
 
