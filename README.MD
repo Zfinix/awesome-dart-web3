@@ -59,7 +59,7 @@
 ### Libraries
   * [web3dart](https://pub.dev/packages/web3dart) - A dart library that connects to interact with the Ethereum blockchain. It connects to an Ethereum node to send transactions, interact with smart contracts and much more!
 
-  * [WebThree](https://pub.dev/packages/web3dart) - a web3 library for dart that allows you to interact with a local or remote ethereum node using HTTP or WebSocket. Suports custom credentials providers like WalletConnect and Metamask. Fork of original web3dart 2.3.5 by simolus3, incorporating all changes from other forks.
+  * [WebThree](https://pub.dev/packages/webthree) - a web3 library for dart that allows you to interact with a local or remote ethereum node using HTTP or WebSocket. Suports custom credentials providers like WalletConnect and Metamask. Fork of original web3dart 2.3.5 by simolus3, incorporating all changes from other forks.
 
   * [flutter_web3](https://pub.dev/packages/flutter_web3) - A full Dart class and function wrapper for Ethereum object from provider, i.e. MetaMask, an Ether.js port, and a Wallet Connect Provider 
 
