@@ -56,6 +56,8 @@
 
   * [Flutter and cryptocurrency: dapps](https://www.youtube.com/watch?v=xyCI9M7vb7I&list=PL1QnTECoOr_Wk0DUygEtShSWDVyD2EAZ-)
 
+  * [Let's make a Dapp in Flutter! | Solidity Smart Contract with Flutter App](https://www.youtube.com/watch?v=dva65eIqWjo)
+
 ### Libraries
   * [web3dart](https://pub.dev/packages/web3dart) - A dart library that connects to interact with the Ethereum blockchain. It connects to an Ethereum node to send transactions, interact with smart contracts and much more!
 
