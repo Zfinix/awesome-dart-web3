@@ -73,6 +73,8 @@
 
   * [hermez_sdk](https://pub.dev/packages/hermez_sdk) - This is a flutter Plugin for Hermez Mobile SDK [https://hermez.io]. This plugin provides a cross-platform tool (iOS, Android) to communicate with the Hermez API and network.
 
+  * [capsule](https://pub.dev/packages/capsule) - [Capsule](https://usecapsule.com/) is a cross app embedded wallet solution for Ethereum and Cosmos chains using emails/social login and Passkeys.
+
 ### Web3 Smart contracts
   * [web3_contract_generator](https://pub.dev/packages/web3_contract_generator) - This package generates dart files to represent ethereum dapps and provide type safety.
   
